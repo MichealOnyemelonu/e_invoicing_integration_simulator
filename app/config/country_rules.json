@@ -1,0 +1,14 @@
+{
+  "IT": {
+    "require_customer_vat": true,
+    "min_amount": 1
+  },
+  "DE": {
+    "require_customer_vat": true,
+    "min_amount": 0
+  },
+  "PL": {
+    "require_customer_vat": true,
+    "min_amount": 10
+  }
+}

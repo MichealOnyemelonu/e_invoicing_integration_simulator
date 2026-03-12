@@ -1,0 +1,10 @@
+{
+  "doc_id": "INV-DE-001",
+  "country": "DE",
+  "cust_vat": "DE123456789",
+  "supp_vat": "DE987654321",
+  "invoice_no": "2024-200",
+  "invoice_date": "2024-01-05",
+  "amount": 50.0,
+  "currency": "EUR"
+}

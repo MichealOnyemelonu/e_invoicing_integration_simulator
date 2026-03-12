@@ -1,0 +1,10 @@
+{
+  "doc_id": "INV-IT-INVALID",
+  "country": "IT",
+  "cust_vat": "",
+  "supp_vat": "IT111111111",
+  "invoice_no": "2024-9999",
+  "invoice_date": "2024-01-02",
+  "amount": 5.0,
+  "currency": "EUR"
+}
